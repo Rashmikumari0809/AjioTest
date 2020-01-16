@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104840" started-at="2020-01-16T10:12:29Z" finished-at="2020-01-16T10:14:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104840" started-at="2020-01-16T10:12:29Z" finished-at="2020-01-16T10:14:13Z">
+      <class name="com.ajio.test.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ajio.test.LoginPageTest@ad085cd3]" name="SetUp" is-config="true" duration-ms="11797" started-at="2020-01-16T15:42:29Z" finished-at="2020-01-16T15:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="userNameTest003()[pri:0, instance:com.ajio.test.LoginPageTest@ad085cd3]" name="userNameTest003" duration-ms="93014" started-at="2020-01-16T15:42:40Z" finished-at="2020-01-16T15:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameTest003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.test.LoginPageTest@ad085cd3]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-01-16T15:44:13Z" finished-at="2020-01-16T15:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="fos()[pri:0, instance:com.ajio.test.LoginPageTest@ad085cd3]" name="fos" is-config="true" duration-ms="409" started-at="2020-01-16T15:44:13Z" finished-at="2020-01-16T15:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fos -->
+      </class> <!-- com.ajio.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
